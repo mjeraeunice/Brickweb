@@ -1,0 +1,168 @@
+@media (max-width: 530px) {
+    body {
+      background-color:aqua;
+    }
+  }
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 270px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-flex;
+    padding: 9px 35px;
+    color:#252525;
+}
+.flag img{
+   width: 22px;
+   height: 4vh;
+   margin-left: 84%;
+}
+.flag{
+margin-top: -27px;
+}
+.logo img{
+    width: 120px;
+    margin-left: 27px;
+}
+.Intro{
+    display: flex;
+}
+.catalogue{
+    margin-left:48px;
+    margin-top: 33px;
+}
+.search{
+    margin-left: 40px;
+    margin-top: 33px ;
+}
+#brickh{
+font-size: 25px;
+margin-top: 30px;
+}
+.icons{
+    margin-left: 30px;
+margin-top: 25px;
+}
+.Intro{
+background-color: #ffd600;
+height: 14vh;
+}
+.star img{
+    width: 180px;
+    margin-left: 510px;
+    margin-top: 10px;
+    height: 120px;
+}
+.star{
+    /* background-color: black; */
+    height: 20vh;
+    margin-top: -55px;
+    
+}
+.series{
+ margin-left: 20px;
+ border-style:solid;
+width: 220px;
+border-radius: 10px 10px;
+border-color: whitesmoke;
+} 
+.container{
+    width: 100%;
+}
+.Pictures1{
+    display: flex;
+    margin-top: -450px;
+    margin-left:250px;
+    justify-content: ;
+}
+#d1,#d2,#d3{
+    width: 180px;
+}
+#d1 img{
+    margin-left: 50px;
+}
+#d2{
+    height: 20vh;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+#d3{
+    margin-left: 230px;
+    margin-top:-20px ;
+}
+.words1{
+/* display: flex; */
+margin-left: 200px;
+}
+.dago{
+    margin-left:60px;
+    margin-top: -35px;
+}
+.at{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+.starship{
+    margin-left: 800px;
+}
+
+
+width: 180px;
+margin-left: 370px;
+height: 20vh;
+}
+#AT{
+margin-top:-150px;
+}
+#starfighter img{
+width: 180px;
+margin-left: 730px;
+height: 28vh;
+}
+.star{
+    margin-left: 740px;
+    margin-top: -20px;
+    text-align: justify;
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #26004c;
+    margin-top: 80%;
+    padding: 40px 50px;
+    margin-left: -90%;
+    width: 110%; 
+}
+.pictures2{
+display: flex;
+margin-top: 40%;
+margin-left: -67%;
+}
+.pictures3{
+    display: flex;
+    margin-top: 60%;
+    margin-left: -45%;
+}
+.pictures4{
+    display: flex;
+    margin-top: 80%;
+    margin-left: -55%;
+}
+.pictures5{
+    display: flex;
+    margin-top: 98%;
+    margin-left: -58%;
+}
+.pic1 img,.pic2 img,.pic3 img,.pic4 img,.pic5 img,.pic6 img,.pic7 img,.pic8 img,.pic9 img,.pic10 img,.pic11 img,.pic12 img{
+    width: 190px;
+    height: 20vh;
+}
